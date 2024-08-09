@@ -17,3 +17,5 @@
 **Input:** The user provides comma-separated features (e.g., age, cholesterol level, etc.) through a web interface.
 
 **Output:** The model predicts whether the person has heart disease or not, displayed on the web interface.
+
+![readpic2](https://github.com/user-attachments/assets/5bc6ffae-75b8-4e34-b034-34a7de9b988a)
